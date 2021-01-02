@@ -1,4 +1,4 @@
-![N|Solid](https://i.ibb.co/yNDSqwS/GITHUB.png)
+![N|Solid](https://i.ibb.co/0CdR5HX/GITHUB-1.png)
 
 ### **Hello there!**
 I am ***Anurag Verma***, a 18 y/o guy who likes to code stuff and watch streams all day long 🌅🌃 
