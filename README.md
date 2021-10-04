@@ -1,7 +1,7 @@
 ![N|Solid](https://i.ibb.co/0CdR5HX/GITHUB-1.png)
 
 ### **Hello there!**
-I am ***Anurag Verma***, a 18 y/o guy who likes to code stuff and watch streams all day long 🌅🌃 
+I am ***Anurag Verma***, a 19 y/o guy who likes to code stuff and watch streams all day long 🌅🌃 
 
 Im the lead backend and Linux developer at [AndronixApp](https://andronix.app). I have deep interest in Linux, Network Management and a little bit of designing alongside programming.
 
