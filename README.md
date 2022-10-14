@@ -10,3 +10,5 @@ Im the lead backend and Linux developer at [AndronixApp](https://andronix.app). 
 - 🏢 I’m running a startup [AndronixApp](https://andronix.app) with my buddy [@imprakharshukla](https://github.com/imprakharshukla)
 - ⚡ Fun fact:  Im an introvert but I really love talking and making friends online
 - 📫 How to reach me: You can find me at discord @ultrahacx#2621 or [mail me](mailto:anony3039@gmail.com) or find me at [Fivem Forums](https://forum.cfx.re/u/ultrahacx/) 🙂
+### Like my work?
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z6BVZ09)
